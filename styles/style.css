@@ -1,5 +1,7 @@
 @import url(./header.css);
 @import url(./ui.css);
+@import url(./banner.css);
+
 
 body{
     padding: 0;
