@@ -27,12 +27,3 @@
         align-items: center;
     }
 }
-#banner-button{
-    background: #222222;
-    
-}
-.banner-cards{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-}
